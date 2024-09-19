@@ -4,6 +4,8 @@
 <h4> 🛠 프로젝트 🛠 </h4>
 
 프로젝트명 | 여성안심 귀갓길 비명 인식 AIoT </br>
+프로젝트 기간 | 2023.03.28~2023.11.21 </br>
+프로젝트 멤버 | 3인 (이다온, 오윤선, 이솔) </br>
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <img src="https://github.com/user-attachments/assets/357ba1ed-684e-4757-951d-ddb7bfabf5ce" alt="이미지 1" style="width: 200px; height: auto; object-fit: cover;">
