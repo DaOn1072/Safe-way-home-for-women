@@ -1,10 +1,27 @@
-# Safe-way-home-for-women
 
-<hr />
-<h4> 🛠 프로젝트 🛠 </h4>
+<h2> 🚔 여성안심 귀갓길 비명 인식 AIoT 🚔 </h2>
 
-프로젝트명 | 여성안심 귀갓길 비명 인식 AIoT </br>
-프로젝트 기간 | 2023.03.28~2023.11.21 </br>
+사물인터넷 IoT(Internet of Things) + 인공지능(Artificial Intelligence) </br>
+</br>
+스피커가 소리를 인식하면 인공지능이 소음의 종류를 판단 및 분석하여 관제시스템에 위험 상황을 알려 신고합니다.
+
+<h2></h2>
+
+<h3> 사용 언어(프로그램)</h3>
+
+![MySQL Logo](https://img.shields.io/badge/MySQL-0089D6?style=for-the-badge&logo=mysql&logoColor=white)
+![Python Logo](https://img.shields.io/badge/Python-38B2AC?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![React Logo](https://img.shields.io/badge/React-6DB33F?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS Logo](https://img.shields.io/badge/Amazon_AWS-777BB4?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Colab Logo](https://img.shields.io/badge/Colab-F15B2A?style=for-the-badge&logo=googlecolab&color=525252)
+
+
+<h3> 🗓 진행 기간 🗓 </h3>
+2023.03.28~2023.11.21 </br>
+<img src="https://github.com/user-attachments/assets/8e40bf54-d1c4-40f2-b488-58a54504be7e" style="width: 500px; height: auto; ">
+
+
 프로젝트 멤버 | 3인 (이다온, 오윤선, 이솔) </br>
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
@@ -18,14 +35,7 @@
 인공지능 음향 분류 모델 학습 | 관제 대시보드 | AWS 연동
 </br>
 
-<h4> 🗓 진행 기간 🗓 </h4>
+
 <img src="https://github.com/user-attachments/assets/8e40bf54-d1c4-40f2-b488-58a54504be7e" style="width: 500px; height: auto; ">
 
-<h4> 사용 언어(프로그램)</h4>
 
-![MySQL Logo](https://img.shields.io/badge/MySQL-0089D6?style=for-the-badge&logo=mysql&logoColor=white)
-![Python Logo](https://img.shields.io/badge/Python-38B2AC?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![React Logo](https://img.shields.io/badge/React-6DB33F?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AWS Logo](https://img.shields.io/badge/Amazon_AWS-777BB4?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Colab Logo](https://img.shields.io/badge/Colab-F15B2A?style=for-the-badge&logo=googlecolab&color=525252)
