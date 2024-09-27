@@ -16,9 +16,12 @@
 
 <h2></h2>
 
-<h3> 프로젝트 사용 언어(프로그램)</h3>
+<h3> 💻 프로젝트 사용 언어(프로그램) 💻 </h3>
 
-3인 개발 | 저는 해당 프로젝트에서 음향 인식 인공지능과 관제 웹 시스템을 담당했습니다. </br>
+3인 개발 | 저는 해당 프로젝트에서 데이터 수집, 음향 인공지능, 관제 웹 시스템 개발 업무를 담당했습니다. </br>
+</br>
+*인공지능 음향 분류 모델 학습 | 관제 대시보드 | AWS 연동
+</br>
 
 ![MySQL Logo](https://img.shields.io/badge/MySQL-0089D6?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python Logo](https://img.shields.io/badge/Python-38B2AC?style=for-the-badge&logo=python&logoColor=white)
@@ -26,26 +29,32 @@
 ![React Logo](https://img.shields.io/badge/React-6DB33F?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AWS Logo](https://img.shields.io/badge/Amazon_AWS-777BB4?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Colab Logo](https://img.shields.io/badge/Colab-F15B2A?style=for-the-badge&logo=googlecolab&color=525252)
+![Linux Logo](https://img.shields.io/badge/Linux-0089D6?style=for-the-badge&logo=Linux&color=pink)
 </br>
 
 
 <h2></h2>
-<h3> 🗓 진행 기간 🗓 </h3>
-2023.03.28~2023.11.21 <b> (9개월) </b> </br>
-<img src="https://github.com/user-attachments/assets/8e40bf54-d1c4-40f2-b488-58a54504be7e" style="width: 500px; height: auto; ">
+<h3> 인공지능 </h3>
+
+- 음성 인식 인공지능 | [Whisper API 사용법 블로그](https://wooiljeong.github.io/python/whisper-api/) 글을 참고하여 모델 학습을 진행 했습니다.
+- 음향 인식 인공지능 | [노인 비명 소리 및 위급 알림 블로그](https://30aichallenge.tistory.com/191) 글을 참고하여 모델 학습을 진행 했습니다.
+- 음향&음성 데이터 | 직접 녹음 및 [AI-Hub](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=170) 사이트의 데이터를 수집하여 학습에 이용했습니다.
+
+<h2></h2>
+<h3>참고 논문</h3>
+<details>
+<summary>📝 1주차 주간 회고</summary>
+<div markdown="1">
+
+- [[🧾 WEEK 1 팀 회고록|🧾-WEEK-1-팀-회고록]]
+- [[👨🏻‍💻 WEEK 1 개인 회고록 김승현|👨🏻‍💻-WEEK-1-개인-회고록-김승현]]
+- [[👨🏻‍💻 WEEK 1 개인 회고록 김우석|👨🏻‍💻-WEEK-1-개인-회고록-김우석]]
+- [[👨🏻‍💻 WEEK 1 개인 회고록 김지원|👨🏻‍💻-WEEK-1-개인-회고록-김지원]]
+- [[👨🏻‍💻 WEEK 1 개인 회고록 김태훈|👨🏻‍💻-WEEK-1-개인-회고록-김태훈]]
+
+</div>
+</details>
 
 
-
-프로젝트 멤버 | 3인 (이다온, 오윤선, 이솔) </br>
-
-
-</br>
-해당 프로젝트에서 데이터 수집, 인공지능 학습, 관제 웹 시스템 개발 업무를 진행했습니다.</br>
-</br>
-인공지능 음향 분류 모델 학습 | 관제 대시보드 | AWS 연동
-</br>
-
-
-<img src="https://github.com/user-attachments/assets/8e40bf54-d1c4-40f2-b488-58a54504be7e" style="width: 500px; height: auto; ">
 
 
