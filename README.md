@@ -12,8 +12,6 @@
 
 
 
-
-
 <h2></h2>
 
 <h3> 💻 프로젝트 사용 언어(프로그램) 💻 </h3>
@@ -57,13 +55,13 @@
 <h2></h2>
 <h3> 관제 웹 시스템 </h3>
 
-| 이미지 1 | 이미지 2 | 이미지 3 | 이미지 4 |
+| 관제메인 페이지 | 보호구역 페이지 | 안심귀갓길 페이지 | 지킴이집 페이지 |
 |:--------:|:--------:|:--------:|:--------:|
-| <img src="https://github.com/user-attachments/assets/b1e8086d-d9da-4ff1-bead-2782452e14e2" alt="이미지 1" width="200" /> | <img src="https://github.com/user-attachments/assets/8d498c30-9d43-4b6f-9a8a-1c28701b573e" alt="이미지 2" width="230" /> | <img src="https://github.com/user-attachments/assets/86b7a1a4-e427-4e35-b4eb-605ada1802fd" alt="이미지 3" width="400" /> | <img src="https://example.com/image4.jpg" alt="이미지 4" width="200" /> |
-| 아두이노 키트로 스피커 제작 | 3D 프린팅으로 스피커 케이스 제작 | 리액트로 구현한 관제 웹 시스템 | 설명 4 |
-| 이미지 5 | 이미지 6 | 이미지 7 | 이미지 8 |
-| <img src="https://example.com/image5.jpg" alt="이미지 5" width="200" /> | <img src="https://example.com/image6.jpg" alt="이미지 6" width="200" /> | <img src="https://example.com/image7.jpg" alt="이미지 7" width="200" /> | <img src="https://example.com/image8.jpg" alt="이미지 8" width="200" /> |
-| 설명 5 | 설명 6 | 설명 7 | 설명 8 |
+| <img src="https://github.com/user-attachments/assets/b1e8086d-d9da-4ff1-bead-2782452e14e2" alt="1 페이지" width="400" /> | <img src="https://github.com/user-attachments/assets/133661d3-7d5b-4f24-8820-df6aa5d8ed82" alt="2 페이지" width="400" /> | <img src="https://github.com/user-attachments/assets/f16a40d3-c0e1-4902-ba75-2b767146f6cb" alt="3 페이지" width="400" /> | <img src="https://github.com/user-attachments/assets/7b109091-8cd2-4a8c-a430-545dac2e1fbd" alt="4 페이지" width="400" /> |
+| 데이터를 한눈에 볼 수 있도록 모아둔 메인 화면 | 전국 어린이, 노인, 장애인 보호구역 데이터 제공 | 서울특별시의 안심 귀갓길 인근에 위치한 안전시설물 데이터 제공 | 여성안심 지킴이 집의 위치와 데이터 제공 |
+| 경찰청_경찰관서 위치 | 신고 수신 페이지 | 신고 게시판 페이지 | 날짜별 통계 차트 |
+| <img src="https://github.com/user-attachments/assets/ad9a8ae7-66a2-4311-aeec-66f1d99f8c83" alt="이미지 5" width="200" /> | <img src="https://github.com/user-attachments/assets/df923e16-70b1-4b54-8fbc-520a1e754841" alt="이미지 6" width="200" /> | <img src="https://github.com/user-attachments/assets/b5ee8326-eb03-44c1-a026-2a2c99c67544" alt="이미지 7" width="200" /> | <img src="https://github.com/user-attachments/assets/27d68d89-df83-4534-a512-1a0edafc0c0d" alt="이미지 8" width="200" /> |
+| 경찰서, 관서명, 지구대, 파출소 주소 정보 제공 | 들어온 신고 정보 제공 및 즉각적인 신고 대처 | 저장된 신고 상세 내용 확인 | 하루, 주간, 월별 통계 차트로 신고량 확인 |
 
 
 - [Build a React Admin Dashboard](https://youtu.be/wYpCWwD1oz0?si=meRyc4bHZWzFAQpM) 영상을 참고하여 구성 및 디자인 제작했습니다.
