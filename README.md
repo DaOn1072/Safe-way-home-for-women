@@ -57,10 +57,14 @@
 <h2></h2>
 <h3> 관제 웹 시스템 </h3>
 
-| 이미지 1 | 이미지 2 | 이미지 3 |
-|:--------:|:--------:|:--------:|
-| <img src="https://github.com/user-attachments/assets/357ba1ed-684e-4757-951d-ddb7bfabf5ce" alt="이미지 1" width="200" /> | <img src="https://github.com/user-attachments/assets/8d498c30-9d43-4b6f-9a8a-1c28701b573e" alt="이미지 2" width="230" /> | <img src="https://github.com/user-attachments/assets/86b7a1a4-e427-4e35-b4eb-605ada1802fd" alt="이미지 3" width="400" /> |
-| 아두이노 키트로 스피커 제작 | 3D 프린팅으로 스피커 케이스 제작 | 리액트로 구현한 관제 웹 시스템 |
+| 이미지 1 | 이미지 2 | 이미지 3 | 이미지 4 |
+|:--------:|:--------:|:--------:|:--------:|
+| <img src="https://github.com/user-attachments/assets/b1e8086d-d9da-4ff1-bead-2782452e14e2" alt="이미지 1" width="200" /> | <img src="https://github.com/user-attachments/assets/8d498c30-9d43-4b6f-9a8a-1c28701b573e" alt="이미지 2" width="230" /> | <img src="https://github.com/user-attachments/assets/86b7a1a4-e427-4e35-b4eb-605ada1802fd" alt="이미지 3" width="400" /> | <img src="https://example.com/image4.jpg" alt="이미지 4" width="200" /> |
+| 아두이노 키트로 스피커 제작 | 3D 프린팅으로 스피커 케이스 제작 | 리액트로 구현한 관제 웹 시스템 | 설명 4 |
+| 이미지 5 | 이미지 6 | 이미지 7 | 이미지 8 |
+| <img src="https://example.com/image5.jpg" alt="이미지 5" width="200" /> | <img src="https://example.com/image6.jpg" alt="이미지 6" width="200" /> | <img src="https://example.com/image7.jpg" alt="이미지 7" width="200" /> | <img src="https://example.com/image8.jpg" alt="이미지 8" width="200" /> |
+| 설명 5 | 설명 6 | 설명 7 | 설명 8 |
+
 
 - [Build a React Admin Dashboard](https://youtu.be/wYpCWwD1oz0?si=meRyc4bHZWzFAQpM) 영상을 참고하여 구성 및 디자인 제작했습니다.
 
