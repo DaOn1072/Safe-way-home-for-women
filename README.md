@@ -1,29 +1,14 @@
 
 <h2> 🚔 여성안심 귀갓길 비명 인식 AIoT 🚔 </h2>
 
-사물인터넷 IoT(Internet of Things) + 인공지능(Artificial Intelligence) </br>
+인공지능융합기술 | 사물인터넷 IoT(Internet of Things) + 인공지능(Artificial Intelligence) </br>
 </br>
 스피커가 소리를 인식하면 인공지능이 소음의 종류를 판단 및 분석하여 관제시스템에 위험 상황을 알려 신고합니다.
 
-<div style="display: flex; justify-content: flex-start; align-items: flex-start; width: 100%;">
-    <div style="text-align: center; width: 200px;">
-        <img src="https://github.com/user-attachments/assets/357ba1ed-684e-4757-951d-ddb7bfabf5ce" alt="이미지 1" style="width: 200px; height: auto; object-fit: cover;">
-        <p>아두이노 키트로 스피커 제작</p>
-    </div>
-    <div style="text-align: center; width: 230px;">
-        <img src="https://github.com/user-attachments/assets/8d498c30-9d43-4b6f-9a8a-1c28701b573e" alt="이미지 2" style="width: 230px; height: auto; object-fit: cover;">
-        <p>3D 프린팅으로 스피커 케이스 제작</p>
-    </div>
-    <div style="text-align: center; width: 400px;">
-        <img src="https://github.com/user-attachments/assets/86b7a1a4-e427-4e35-b4eb-605ada1802fd" alt="이미지 3" style="width: 400px; height: auto; object-fit: cover;">
-        <p>리액트로 구현한 관제 웹 시스템</p>
-    </div>
-</div>
-
-
-
-
-
+| 이미지 1 | 이미지 2 | 이미지 3 |
+|:--------:|:--------:|:--------:|
+| <img src="https://github.com/user-attachments/assets/357ba1ed-684e-4757-951d-ddb7bfabf5ce" alt="이미지 1" width="200" /> | <img src="https://github.com/user-attachments/assets/8d498c30-9d43-4b6f-9a8a-1c28701b573e" alt="이미지 2" width="230" /> | <img src="https://github.com/user-attachments/assets/86b7a1a4-e427-4e35-b4eb-605ada1802fd" alt="이미지 3" width="400" /> |
+| 아두이노 키트로 스피커 제작 | 3D 프린팅으로 스피커 케이스 제작 | 리액트로 구현한 관제 웹 시스템 |
 
 
 
