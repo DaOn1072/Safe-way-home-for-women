@@ -38,7 +38,7 @@
 
 - 음성 인식 인공지능 | [Whisper API 사용법 블로그](https://wooiljeong.github.io/python/whisper-api/) 글을 참고하여 모델 학습을 진행 했습니다.
 - 음향 인식 인공지능 | [노인 비명 소리 및 위급 알림 블로그](https://30aichallenge.tistory.com/191) 글을 참고하여 모델 학습을 진행 했습니다.
-- 음향&음성 데이터 | 직접 녹음 및 [AI-Hub](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=170) 사이트의 데이터를 수집하여 학습에 이용했습니다.
+- 음향&음성 데이터 | 직접 녹음 및 [AI-Hub](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=170_blank) 사이트의 데이터를 수집하여 학습에 이용했습니다.
 
 <h2></h2>
 <h3>참고 논문</h3>
@@ -54,6 +54,9 @@
 
 </div>
 </details>
+
+<h2></h2>
+https://youtu.be/wYpCWwD1oz0?si=meRyc4bHZWzFAQpM
 
 
 
