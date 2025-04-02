@@ -1,6 +1,6 @@
 
 <h2> 🚔 여성안심 귀갓길 비명 인식 AIoT 🚔 </h2>
-
+ 
 인공지능융합기술 | 사물인터넷 IoT(Internet of Things) + 인공지능(Artificial Intelligence) </br>
 </br>
 스피커가 소리를 인식하면 인공지능이 소음의 종류를 판단 및 분석하여 관제시스템에 위험 상황을 알려 신고합니다.
